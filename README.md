@@ -2,6 +2,7 @@
 
 **A literature and data map of bio-based barrier coatings for paper packaging.**
 
+🔗 **[Live dashboard]((https://barrierlens.streamlit.app/))** · explore the research map, compare performance data and find candidates for your own requirements.
 Paper packaging still relies on polyethylene (PE) and PFAS coatings for water and grease resistance. BarrierLens maps the scientific literature on bio-based alternatives (chitosan, starch, alginate, proteins, nanocellulose, waxes, lignin/hemicellulose) and compiles published performance data, so that the most promising candidates for lab testing can be identified.
 
 > **Goal:** not to declare "the best material", but to answer: *which material and method best meet a given set of requirements, and which 3–5 candidates are worth testing in the lab?*
